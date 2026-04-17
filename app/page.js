@@ -202,7 +202,7 @@ export default function Home() {
                 <h2 className="text-4xl md:text-6xl font-bold text-white mb-4 tracking-tight">
                   Shri Sai Murali S.
                 </h2>
-                <h3 className="text-2xl font-medium text-saffron-400 italic">
+                <h3 className="text-2xl font-medium text-white italic">
                   Consul General of India, Jaffna
                 </h3>
               </div>
